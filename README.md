@@ -1,3 +1,4 @@
+![](Portada ML.png)
 # ML-Predictor-de-propinas-de-taxi
 Este proyecto utiliza Machine Learning para predecir propinas en viajes en taxi en Nueva York realizados durante el mes de septiembre de 2023.
 Los modelos finales se encuentran dentro de Modelos/modelos finales, con el nombre de classifier_final y regresor_final, que incluye un regresor para cada grupo diferenciado en classifier. Tambien se incluye dentro de Modelos/Pruebas de modelos todas las pruebas realizadas hasta lograr el modelo final. Los classifiers del 1 al 5 utilizan el target sin transformar dividiendo por la distancia.
